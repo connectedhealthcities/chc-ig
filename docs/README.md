@@ -5,6 +5,8 @@ As a result a subject matter specialist was appointed as CHC Hub Head of Informa
 
 The templates and guidance produced by the CHC Programme are being shared here as a community resource for future projects to re-use. You can view the templates and guidance in the [GitHub repository](https://github.com/connectedhealthcities/chc-ig). All material is licensed under Creative Commons.
 
+[Guidance](https://github.com/connectedhealthcities/chc-ig/tree/master/guidance)
+
 ## Approach and Key Deliverables
 ### Information Governance Working Group
 
