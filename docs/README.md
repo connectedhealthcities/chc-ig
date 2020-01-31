@@ -3,6 +3,8 @@ The CHC Programme aimed to process existing information from primary, secondary 
 At a very early stage CHC Hub determined that it would be critical to the success of the programme to implement appropriate information governance arrangements to ensure that patient and service user data was shared and processed lawfully and ethically.
 As a result a subject matter specialist was appointed as CHC Hub Head of Information Governance to lead an IG workstream which would deliver expertise to the Hub and to each of the regional CHCs; to support and work with the IG leads in each CHC; and to liaise with the IG leads within each of the host organisations to ensure that local policies and procedures were being adhered to.
 
+The templates and guidance produced by the CHC Programme are being shared here as a community resource for future projects to re-use. You can view the templates and guidance in the [GitHub repository](https://github.com/connectedhealthcities/chc-ig). All material is licensed under Creative Commons.
+
 ## Approach and Key Deliverables
 ### Information Governance Working Group
 
