@@ -2,8 +2,8 @@
 The following definitions and explanations are derived from a number of sources, including  [Understanding Patient Data](https://understandingpatientdata.org.uk/)  and  [Review of Data Security, Consent and Opt-Outs](https://www.gov.uk/government/publications/review-of-data-security-consent-and-opt-outs)  by The National Data Guardian for Health and Care.
 
 People want to know whether they could be identified when data about them is used.  However, the technical language of identifiability is complex, with many different words used to describe the same thing, and many of those words are unnecessarily technical.  The following diagram provides some examples:
-![](data-glossary/Spectrum-of-identifiability-768x514.jpg)
-![](data-glossary/Identifiability-Spectrum_Words-768x136.jpg)
+![Spectrum of Identifiability](data-glossary/Spectrum-of-identifiability-768x514.jpg)
+![Identifiability language](data-glossary/Identifiability-Spectrum_Words-768x136.jpg)
 
 **Glossary**
 **Access control:** A means of ensuring that the people who have been given access to all or part of a data record have been approved to do so.  Different controls are in place for data sharing.

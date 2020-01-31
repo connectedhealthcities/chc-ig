@@ -1,6 +1,7 @@
 ## Introduction
 The CHC Programme aimed to process existing information from primary, secondary and social care to improve health and social care.  Although the four CHCs planned to use different systems infrastructure and resources, and to pursue different priorities they all required the expertise and technology to obtain, link and analyse the data allowing patients to be tracked through different services.   The aim was to use these analyses to shape health and social care services to deliver better outcomes for patients and communities.
 At a very early stage CHC Hub determined that it would be critical to the success of the programme to implement appropriate information governance arrangements to ensure that patient and service user data was shared and processed lawfully and ethically.
+
 As a result a subject matter specialist was appointed as CHC Hub Head of Information Governance to lead an IG workstream which would deliver expertise to the Hub and to each of the regional CHCs; to support and work with the IG leads in each CHC; and to liaise with the IG leads within each of the host organisations to ensure that local policies and procedures were being adhered to.
 
 The templates and guidance produced by the CHC Programme are being shared here as a community resource for future projects to re-use. You can view the templates and guidance in the [GitHub repository](https://github.com/connectedhealthcities/chc-ig). All material is licensed under Creative Commons.
@@ -13,6 +14,9 @@ The templates and guidance produced by the CHC Programme are being shared here a
 ### Information Governance Working Group
 
 An IG Working group (IGWG) was established to provide assurance to both those organisations that were to share data with CHC and to the patients and public. The IGWG’s main objective was to ensure that the data would be held securely and used ethically by entrenching good IG practice within each CHC.  Representatives from each of the CHCs, in particular those responsible for IG within their area, joined the IGWG.  The IGWG met on a monthly basis in the first instance: meetings were moved to every two months towards the end of the Programme when good practices had been embedded into each CHC and therefore there was less business to discuss. 
+
+![Spectrum of Identifiability](data-glossary/Spectrum-of-identifiability-768x514.jpg)
+
 It was recognised that each regional CHC was hosted by an organisation that was the legal entity responsible for the IG practices of the CHC, so it was important for each CHC to ensure that they also complied with local policies and procedures.
 
 ### Support for Data Sharing Arrangements
@@ -47,7 +51,7 @@ In the main, CHCs processed pseudonymised data, although some individual project
 The Head of Information Governance and the IGWG facilitated review and discussion of PIA’s between regional peers – this provided support for those who were less familiar with the process. 
 
 ### Glossary of Terms
-Public Engagement has been a key strand throughout the CHC programme.  Collaboration with the CHC Public Engagement Director enabled a Glossary of Terms to be developed which was designed to explain the technical language surrounding the use of patient data in user friendly, plain English.  The definitions and explanations used were derived from a number of sources, including  [Understanding Patient Data](https://understandingpatientdata.org.uk/)  and  [Review of Data Security, Consent and Opt-Outs](https://www.gov.uk/government/publications/review-of-data-security-consent-and-opt-outs)  by The National Data Guardian for Health and Care. The Glossary of Terms is live on the CHC website so that it can be used by the general public.
+Public Engagement has been a key strand throughout the CHC programme.  Collaboration with the CHC Public Engagement Director enabled a Glossary of Terms to be developed which was designed to explain the technical language surrounding the use of patient data in user friendly, plain English.  The definitions and explanations used were derived from a number of sources, including  [Understanding Patient Data](https://understandingpatientdata.org.uk/)  and  [Review of Data Security, Consent and Opt-Outs](https://www.gov.uk/government/publications/review-of-data-security-consent-and-opt-outs)  by The National Data Guardian for Health and Care. The Glossary of Terms is live on the CHC website so that it can be used by the general public. See also [the version on Github](guidance/data-glossary.md).
 
 ### Privacy / Transparency statements
 A privacy or transparency statement is required to explain to patients how their data is obtained, used, disclosed, and managed by each controller. It fulfils the legal requirement for transparency. It is the responsibility of local host organisations to ensure that CHC projects are included within their Privacy Statement, however, a generic Privacy statement was developed for use on the CHC website to explain how each CHC would protect a customer or client’s privacy.
