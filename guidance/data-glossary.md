@@ -12,7 +12,7 @@ People want to know whether they could be identified when data about them is use
 
 **Anonymisation:** The process of rendering data into a form which does not identify individuals either directly or indirectly and where identification is not likely to take place by any means reasonably likely (see also de-personalised data).
 
-**Anonymised grouped data**: Statistical data about several individuals that has been combined to show general trends or values without identifying individuals within the data (see also aggregated data).
+**Anonymised grouped data:** Statistical data about several individuals that has been combined to show general trends or values without identifying individuals within the data (see also aggregated data).
 
 **Audit trail:** An audit trail (or log) records anyone who has viewed or changed a record, why and when they did so and what changes they made.
 
@@ -45,42 +45,42 @@ People want to know whether they could be identified when data about them is use
 
 **Controller:** A term used to describe an individual or organisation who determines the purposes for which and the manner in which any personally identifiable data is or will be processed. It is the responsibility of the Controller to ensure that any processing of personally identifiable data is lawful.
 
-**Data:**see Patient data. N.B. The word ‘data’ is used in the singular throughout, to promote clarity of understanding.
+**Data:** see Patient data. N.B. The word ‘data’ is used in the singular throughout, to promote clarity of understanding.
 
-**Data breach:**Any failure to meet the requirements of the Data Protection Act, unlawful disclosure or misuse of personally identifiable data and an inappropriate invasion of people’s privacy.
+**Data breach:** Any failure to meet the requirements of the Data Protection Act, unlawful disclosure or misuse of personally identifiable data and an inappropriate invasion of people’s privacy.
 
-**Data Controller:**See Controller.
+**Data Controller:** See Controller.
 
 **Data loss:** a term that is used when personally identifiable data is lost, inappropriately accessed or corrupted, either by accident or on purpose.  This could either be a breach of the  [Data Protection Act](https://www.connectedhealthcities.org/community/glossary-data-use/dataprotectionact)  or an inappropriate breaking of confidentiality.
 
 **Data Processor:** See Processor.
 
-**Data Subject:**An identifiable living person described in personal data who has certain rights under the Data Protection Act (2018).
+**Data Subject:** An identifiable living person described in personal data who has certain rights under the Data Protection Act (2018).
 * [Data Protection Act (2018)](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)  Data protection legislation for the UK which governs the handling and protection of personally identifiable data relating to living people. It includes specific rights for individuals, such as rights to know and correct what data is held about them. It supercedes the  [Data Protection Act (1998)](https://www.legislation.gov.uk/ukpga/1998/29/contents)  and stipulates additional legal obligations under the European Union’s GDPR. For example, controllers need to be transparent with individuals about how their data are processed, keep records of data processing, provide individuals with access to their data free of charge, Data Protection Impact Assessments, and hold contracts for the personally identifiable data they will hold and process.
 
-**Data Protection Impact Assessment:**A systematic and comprehensive process for determining the privacy, confidentiality and security risks associated with the collection, use and disclosure for Personally Identifiable Patient Data prior to the introduction of or a change to a policy, process or procedure. Completing a DPIA is a legal requirement for controllers of any high risk data processing. Its aim is to balance the proposed data processing and the rights of individuals in the Data Protection Act. Prior to the Data Protection Act 2018 these were optional and were called Privacy Impact Assessments.
+**Data Protection Impact Assessment:** A systematic and comprehensive process for determining the privacy, confidentiality and security risks associated with the collection, use and disclosure for Personally Identifiable Patient Data prior to the introduction of or a change to a policy, process or procedure. Completing a DPIA is a legal requirement for controllers of any high risk data processing. Its aim is to balance the proposed data processing and the rights of individuals in the Data Protection Act. Prior to the Data Protection Act 2018 these were optional and were called Privacy Impact Assessments.
 
 **Data Protection Officer:** See also Information Governance Specialist. An independent officer responsible for advising an organisation on how to ensure they comply with the Data Protection Act 2018, and meeting the individual’s rights. The DPO is the key contact point between the organisation and the supervisory authority.
 
 **Data security:** Protecting data and information systems from unauthorised access, use, disclosure, disruption, modification or destruction.
 
-**Data sharing:**The disclosure of data from one or more organisations to another organisation or organisations, or the sending of data between different parts of a single organisation. This can take the form of routine data sharing, where the same data sets are shared between the same organisations for an on-going established purpose; and exceptional, one-off decisions to share data for a specific purpose.
+**Data sharing:** The disclosure of data from one or more organisations to another organisation or organisations, or the sending of data between different parts of a single organisation. This can take the form of routine data sharing, where the same data sets are shared between the same organisations for an on-going established purpose; and exceptional, one-off decisions to share data for a specific purpose.
 
-**Data Sharing Contract and Agreements**: a group of documents that sets out the common set of rules to be adopted by the various organisations involved in data sharing.  A data sharing contract establishes the rules that will apply to the processing of any data by partner organisations.  A data sharing agreement relates to the flow of data between partner organisations for a specific purpose.  There is often one data sharing contract and multiple data sharing agreements between partner organisations.
+**Data Sharing Contract and Agreements:** a group of documents that sets out the common set of rules to be adopted by the various organisations involved in data sharing.  A data sharing contract establishes the rules that will apply to the processing of any data by partner organisations.  A data sharing agreement relates to the flow of data between partner organisations for a specific purpose.  There is often one data sharing contract and multiple data sharing agreements between partner organisations.
 
-**De-anonymisation:**See Re-identification.
+**De-anonymisation:** See Re-identification.
 
-**De-identification**: See De-personalised data.
+**De-identification:** See De-personalised data.
 
-**De-personalised data:**This is information that does not identify an individual, because identifiers or  [identifiable data](https://www.connectedhealthcities.org/community/glossary-data-use/identifiabledata)  have been scrambled or removed from the non-identifiable information about the person it relates to. However, the information is still about an individual person and so needs to be protected. It might, in theory, be possible to re-identify the individual if the data was not adequately protected, for example if it was combined with different sources of information.
+**De-personalised data:** This is information that does not identify an individual, because identifiers or  [identifiable data](https://www.connectedhealthcities.org/community/glossary-data-use/identifiabledata)  have been scrambled or removed from the non-identifiable information about the person it relates to. However, the information is still about an individual person and so needs to be protected. It might, in theory, be possible to re-identify the individual if the data was not adequately protected, for example if it was combined with different sources of information.
 
 **Duty of Confidentiality:** A duty of confidentiality (or confidence) arises when one person discloses information to another (e.g. patient to clinician) in circumstances where it is reasonable to expect that the information will be held in confidence. It is a:
 1. legal obligation that is derived from common law;
 2. requirement established either within professional codes of conduct and/or that must be included within relevant employment contracts. It is also linked to disciplinary procedures through both these requirements.
 
-**Explicit consent**: a freely given, specific, informed and unambiguous indication of the individual’s wishes e.g. regarding data use. There must be some form of clear affirmative action – or in other words, a positive opt-in.  Explicit consent cannot be inferred from silence, pre-ticked boxes or inactivity (see also Implied consent).
+**Explicit consent:** a freely given, specific, informed and unambiguous indication of the individual’s wishes e.g. regarding data use. There must be some form of clear affirmative action – or in other words, a positive opt-in.  Explicit consent cannot be inferred from silence, pre-ticked boxes or inactivity (see also Implied consent).
 
-**Freedom of Information Act (2000)**: this places a legal responsibility on public bodies to publish information about their activities and also to provide information (but not personally identifiable data) in response to a written request from a member of the public.  N.B. A written request from a member of the public for personally identifiable data that is held about them is made under the Data Protection Act, not the Freedom of Information Act.
+**Freedom of Information Act (2000):** this places a legal responsibility on public bodies to publish information about their activities and also to provide information (but not personally identifiable data) in response to a written request from a member of the public.  N.B. A written request from a member of the public for personally identifiable data that is held about them is made under the Data Protection Act, not the Freedom of Information Act.
 
 * [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)  The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It also addresses the export of personal data outside the EU and EEA areas and all personal data processed by organisations established in the EU.
 
@@ -88,13 +88,13 @@ People want to know whether they could be identified when data about them is use
 
 **Identifier:** An item of data, which by itself or in combination with other data, enables an individual to be identified.
 
-**Implied consent:**an unwritten agreement between the patient and the health and social care professionals that provide their care that allows their data to be shared as long as it is relevant for their care, it is kept confidential and the patient has not objected.  It is only valid where a reasonable person would expect it to be shared, such as when there is a legitimate relationship.
+**Implied consent:** an unwritten agreement between the patient and the health and social care professionals that provide their care that allows their data to be shared as long as it is relevant for their care, it is kept confidential and the patient has not objected.  It is only valid where a reasonable person would expect it to be shared, such as when there is a legitimate relationship.
 
 **Independent audit:** An audit conducted by an external and therefore independent auditor to provide greater public assurance. See Clinical audit.
 
 **Indirect care:** purposes other than individual care of the patient.  This includes activities that contribute to the overall provision of services to a population as a whole or a group of patients with a particular condition. It also covers health services management, preventative medicine, and medical research. Examples of such activities would be risk prediction and stratification, service evaluation, needs assessment, and financial audit.
 
-**Individual care**: A clinical, social or public health activity concerned with the prevention, investigation and treatment of illness and the alleviation of suffering of an identified individual.
+**Individual care:** A clinical, social or public health activity concerned with the prevention, investigation and treatment of illness and the alleviation of suffering of an identified individual.
 
 **Information:** see Patient Information
 
@@ -106,15 +106,15 @@ People want to know whether they could be identified when data about them is use
 
 **Linkage:** The merging of information or data from two or more sources, with the object of combining facts concerning an individual or an event, which are not available in any separate record.
 
-**Medical record**: see Care Record
+**Medical record:** see Care Record
 
 **Metadata:** Descriptions about data, for example how many records, quality of certain details, or where further information can be found. These are sometimes organised and made available in a catalogue for browsing by those interested in applying to access the data.
 
 **Patient data:** Data that is collected about a patient whenever they go to a doctor or receive social care. It may include details about the individual’s physical or mental health, such as height and weight or detail of any allergies, and their social care needs and services received. It may also include next of kin information. This is recorded and stored in a care record.
 
-**Patient record**: see Care record
+**Patient record:** see Care record
 
-**Personally identifiable patient data**: This term describes personal information about identified or identifiable individuals, which should be kept private or secret.  It includes the definition of personal data in the Data Protection Act, but also includes data relating to people who have died and information given in confidence under the Duty of Confidentiality.
+**Personally identifiable patient data:** This term describes personal information about identified or identifiable individuals, which should be kept private or secret.  It includes the definition of personal data in the Data Protection Act, but also includes data relating to people who have died and information given in confidence under the Duty of Confidentiality.
 
 **Personal confidential data:** see personally identifiable patient data
 
