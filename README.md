@@ -6,3 +6,5 @@ View the final [IG project report](https://connectedhealthcities.github.io/chc-i
 
 [Guidance](https://github.com/connectedhealthcities/chc-ig/tree/master/guidance)
 
+[Templates](https://github.com/connectedhealthcities/chc-ig/tree/master/templates)
+
