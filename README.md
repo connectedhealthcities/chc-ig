@@ -8,3 +8,4 @@ For more information on CHC see: https://www.connectedhealthcities.org
 
 [Templates](https://github.com/connectedhealthcities/chc-ig/tree/master/templates)
 
+[Workshops](https://github.com/connectedhealthcities/chc-ig/tree/master/workshops)
