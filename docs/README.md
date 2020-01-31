@@ -7,6 +7,8 @@ The templates and guidance produced by the CHC Programme are being shared here a
 
 [Guidance](https://github.com/connectedhealthcities/chc-ig/tree/master/guidance)
 
+[Templates](https://github.com/connectedhealthcities/chc-ig/tree/master/templates)
+
 ## Approach and Key Deliverables
 ### Information Governance Working Group
 
