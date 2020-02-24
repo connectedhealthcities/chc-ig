@@ -19,6 +19,8 @@ An IG Working group (IGWG) was established to provide assurance to both those or
 
 ![Spectrum of Identifiability](data-glossary/Spectrum-of-identifiability-768x514.jpg)
 
+*Spectrum of Identifiability used under CC-BY. Created by [Understanding Patient Data](https://understandingpatientdata.org.uk/what-does-anonymised-mean).*
+
 It was recognised that each regional CHC was hosted by an organisation that was the legal entity responsible for the IG practices of the CHC, so it was important for each CHC to ensure that they also complied with local policies and procedures.
 
 ### Support for Data Sharing Arrangements
